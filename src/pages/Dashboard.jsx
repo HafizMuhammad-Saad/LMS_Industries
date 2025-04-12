@@ -30,7 +30,7 @@ import { useNavigate } from 'react-router-dom';
 import { supabase } from '../utils/supabaseClient';
 import { PackageIcon, UserIcon,} from 'lucide-react';
 import HorizontalLinearStepper from '@/components/Stepper';
-import DataTable from '@/components/table';
+// import DataTable from '@/components/table';
 import { GridAddIcon } from '@mui/x-data-grid';
 import { Grid } from 'lucide-react';
 
