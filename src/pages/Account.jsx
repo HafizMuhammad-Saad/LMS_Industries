@@ -1,6 +1,5 @@
 import { useState, useEffect } from 'react'
 import { supabase } from '../utils/supabaseClient'
-import './AuthSignin'
 import { useContext } from 'react'
 import {AuthContext} from '../context/Context'
 
